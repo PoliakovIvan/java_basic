@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
 public class UniversityJsonTest {
     @Test
     public void testUniversitySerialization() {
-        String filePath = "./src/main/java/edu/ntudp/fit/samoilenko/laba4/university.json";
+        String filePath = ".src/main/java/com/example/lab4/university.json";
 
         JsonManager jsonManager = new JsonManager();
         UniversityCreator universityCreator = new UniversityCreator();
