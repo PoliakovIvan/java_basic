@@ -1,0 +1,144 @@
+{
+    "name": "NTU DP",
+    "rector": {
+        "firstName": "Ivan",
+        "lastName": "Polaikov",
+        "patronymic": "Igorovich",
+        "sex": "MAN"
+    },
+    "faculties": [
+        {
+            "dean": {
+                "firstName": "Ivan",
+                "lastName": "Polaikov",
+                "patronymic": "Igorovich",
+                "sex": "MAN"
+            },
+            "maxDepartmentsCount": 4,
+            "departments": [
+                {
+                    "headOfDepartment": {
+                        "firstName": "Ivan",
+                        "lastName": "Polaikov",
+                        "patronymic": "Igorovich",
+                        "sex": "MAN"
+                    },
+                    "maxGroupsCount": 6,
+                    "groups": [
+                        {
+                            "maxStudentsCount": 20,
+                            "groupLeader": {
+                                "firstName": "Ivan",
+                                "lastName": "Polaikov",
+                                "patronymic": "Igorovich",
+                                "sex": "MAN"
+                            },
+                            "students": [
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                },
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                }
+                            ]
+                        },
+                        {
+                            "maxStudentsCount": 20,
+                            "groupLeader": {
+                                "firstName": "Ivan",
+                                "lastName": "Polaikov",
+                                "patronymic": "Igorovich",
+                                "sex": "MAN"
+                            },
+                            "students": [
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                },
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "headOfDepartment": {
+                        "firstName": "Ivan",
+                        "lastName": "Polaikov",
+                        "patronymic": "Igorovich",
+                        "sex": "MAN"
+                    },
+                    "maxGroupsCount": 6,
+                    "groups": [
+                        {
+                            "maxStudentsCount": 20,
+                            "groupLeader": {
+                                "firstName": "Ivan",
+                                "lastName": "Polaikov",
+                                "patronymic": "Igorovich",
+                                "sex": "MAN"
+                            },
+                            "students": [
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                },
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                }
+                            ]
+                        },
+                        {
+                            "maxStudentsCount": 20,
+                            "groupLeader": {
+                                "firstName": "Ivan",
+                                "lastName": "Polaikov",
+                                "patronymic": "Igorovich",
+                                "sex": "MAN"
+                            },
+                            "students": [
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                },
+                                {
+                                    "recordBookNumber": 125201,
+                                    "firstName": "Ivan",
+                                    "lastName": "Polaikov",
+                                    "patronymic": "Igorovich",
+                                    "sex": "MAN"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
